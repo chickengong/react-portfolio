@@ -7,7 +7,7 @@ I have created a React Portfolio, that has information about me, and resume.
 Heroku App:
 (http://localhost:3000/React_Portfolio#about)
 
-<img src="![image](https://user-images.githubusercontent.com/108504537/213951682-496fd945-1a58-494a-a777-a22fadb7bc13.png) ">
+<[image](https://user-images.githubusercontent.com/108504537/213951682-496fd945-1a58-494a-a777-a22fadb7bc13.png) ">
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ In  your terminal to the repository-  root directory and run this command:
 ```
 npm run start
 ```
-** must have nod.js installed 
+** must have node.js installed 
 
 ## License
 
