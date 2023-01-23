@@ -7,7 +7,7 @@ I have created a React Portfolio, that has information about me, and resume.
 Heroku App:
 (http://localhost:3000/React_Portfolio#about)
 
-<[click here for image](https://user-images.githubusercontent.com/108504537/213951682-496fd945-1a58-494a-a777-a22fadb7bc13.png)>
+![image](https://user-images.githubusercontent.com/108504537/213951682-496fd945-1a58-494a-a777-a22fadb7bc13.png)
 
 
 ## Table of Contents
@@ -39,7 +39,7 @@ npm run start
 
 ## Video
 
-https://drive.google.com/file/d/1W1Uetxm019U3VrxCq6Z_PfgaRgcIckso/view
+![portfolio ](https://user-images.githubusercontent.com/108504537/213952745-ccaeafe3-a42a-4708-9da9-f57dc3fedaa1.gif)
 
 ![image](https://user-images.githubusercontent.com/108504537/213952548-9c6e7693-471e-4454-a138-a89aad19eaf5.png)
 
