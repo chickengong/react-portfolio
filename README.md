@@ -5,7 +5,9 @@
 I have created a React Portfolio, that has information about me, and resume. 
 
 Link:
-
+ https://chickengong.github.io/react-portfolio/
+ 
+ 
 ![image](https://user-images.githubusercontent.com/108504537/213951682-496fd945-1a58-494a-a777-a22fadb7bc13.png)
 
 
