@@ -56,4 +56,6 @@ This application is covered under the MIT license.
 
 ![badmath](https://img.shields.io/github/repo-size/ajsherrill2/react-portfolio)
 
+## Credit 
+"https://lemming97.github.io/React_Portfolio/" - To lindsey for the react-template! 
 
